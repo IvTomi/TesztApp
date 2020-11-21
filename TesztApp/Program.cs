@@ -9,6 +9,7 @@ namespace TesztApp
             Console.WriteLine("Hello World!");
             Console.WriteLine("Yayayaya");
             Console.WriteLine("Látod?");
+            Console.WriteLine("Hello there");
         }
     }
 }
