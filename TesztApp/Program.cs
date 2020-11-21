@@ -8,6 +8,7 @@ namespace TesztApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Yayayaya");
+            Console.WriteLine("Marci");
             Console.WriteLine("Látod?");
             Console.WriteLine("Hello there");
             Console.WriteLine("Lángos sajttal");
